@@ -269,6 +269,14 @@ button:hover,
 .button.button-youtube:focus {
   filter: brightness(90%) }
 
+/* Email */
+.button.button-email {
+  color: #FFFFFF;
+  background-color: #5882BE }
+.button.button-email:hover,
+.button.button-email:focus {
+  filter: brightness(90%) }
+
 /* Wordpress */
 .button.button-wordpress {
   color: #FFFFFF;
