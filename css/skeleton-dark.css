@@ -77,7 +77,6 @@ are based on 10px sizing. So basically 1.5rem = 15px :) */
 html {
   font-size: 100%; }
 body {
-  background-image: url("../images/bg_sentry.png");
   background-color: #000;
   font-size: 18px;
   line-height: 24px;
