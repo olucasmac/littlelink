@@ -1,5 +1,17 @@
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 
+#ad-container {
+  width: 100%;
+  height: 100px; /* Ajuste conforme o tamanho do anúncio */
+  background-color: #ccc; /* Apenas para visualização, substitua conforme necessário */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
+
 /**
  * 1. Set default font family to sans-serif.
  * 2. Prevent iOS text size adjust after orientation change, without disabling
